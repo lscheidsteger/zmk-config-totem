@@ -1,0 +1,7 @@
+#include "totem.dtsi"
+
+/ {
+    chosen {
+        zmk,split-role = "central";
+    };
+};

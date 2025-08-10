@@ -1,0 +1,11 @@
+file_format: "1"
+id: totem_dongle
+name: TOTEM Dongle
+parent: totem
+requires: [seeeduino_xiao_ble]
+type: shield
+features:
+  - dongle
+siblings:
+  - totem_left
+  - totem_right
